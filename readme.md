@@ -19,7 +19,7 @@ This database holds product information such as the product name, price, and whe
 The repository can be cloned to your local device and tested using Insomnia to view the items and information in the database.
 
 ## Links
-[Demo Link](https://app.screencastify.com/v2/manage/videos/oTCzBaXcQZfiRCM3JWMD)
+[Demo Link](https://drive.google.com/file/d/1rGOpuy_cR9TJRWvVX60n6SJGcRPzKnFG/view)
 
 ## Questions?
 Please feel free to message me at memiscavage@gmail.com with any questions.
